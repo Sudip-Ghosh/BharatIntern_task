@@ -1,0 +1,147 @@
+
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    body{
+        background-color: rgb(67, 15, 42);
+        color: white;
+        font-family: 'Poppins','sans-serif';
+    }
+
+    nav{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        height: 80px;
+        background-color: rgb(80, 145, 164);
+    }
+    nav ul{
+        display: flex;
+        justify-content: center;
+    }
+    nav ul li{
+        list-style: none;
+        margin:0 23px;
+        color:red;
+    }
+    nav ul li a:hover{
+        
+        
+        color:rgb(232, 16, 16);
+    }
+    main hr{
+       margin-left: 50px;
+       margin-right: 50px;
+
+    }
+    .left{
+        font-size: 1.5rem;
+    }
+    .firstsection{
+        display: flex;
+        justify-content: space-around;
+        margin: 110px 0;
+        align-items: center ;
+    }
+    .firstsection > div{
+        width:30%;
+    
+        
+    }
+    .leftsection{
+        font-size: 2rem;
+        margin:30px 0;    
+    }
+    button{
+        padding:10px;
+        background:rgb(17, 69, 83);
+        color:red;
+        border: 2px solid white;
+        border-radius:6px;
+        font-size: 18px;
+        cursor:pointers;
+       
+    }
+    .rightsection img{
+        width:80%;
+        
+
+    }
+    .purple{
+        color:blueviolet;
+    }
+    #element{
+        color:blueviolet;
+    }
+    .secondSection h1{
+        font-size: 1.9rem;
+    }
+    .text-gray{
+        color:gray;
+    }
+    .secondSection .box{
+        background:white;
+        width: 406px;
+        height: 3px;;
+        margin: 85px;;
+        display:flex;
+    }
+    .secondSection .vertical{
+        height: 93px;
+        width:1px;
+        background-color: white;
+        margin:0 100px;
+    }
+    .image-top{
+        width:23px;
+        position:relative;
+        top:-32px;
+        left:-9px;
+        
+    }
+    .vertical-title{
+        position:relative;
+        top:75px;
+        width:150px;
+    }
+    .vertical-desc{
+        position:absolute;
+        top:86px;
+        width:20px;
+        color:gray;
+        font-size: 8px;
+
+    }
+
+    p{
+        color:grey;
+        font-size:8px;
+    }
+
+    .secondSection h1{
+        margin-left:60px;
+    }
+    .secondSection span{
+        margin-left:60px;
+    }
+
+    .footer{
+        display:flex;
+        padding:200px;
+        justify-content: space-evenly;
+    }
+    .footer ul{
+        list-style:none;
+    }
+
+    .footer > div{
+        width: 223px;
+    }
+
+    footer .footer-rights{
+        text-align: center;
+        color:gray;
+        padding:12px 0;
+    }
+

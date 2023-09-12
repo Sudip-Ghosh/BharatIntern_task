@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<!-- saved from url=(0032)http://127.0.0.1:5500/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sudip Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+<link href="./Sudip Portfolio1_files/css2" rel="stylesheet">
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div id="C1"></div>
+    <header>
+        <nav>
+            <div class="left"><b>Coder Sudip</b></div>
+            <div class="right">
+                <ul>
+                    <li><a href="http://127.0.0.1:5500/index.html#co0" style="text-decoration: none;">Home</a></li>
+                    <li><a href="http://127.0.0.1:5500/index.html#co1" style="text-decoration: none;">About</a></li>
+                    <li><a href="http://127.0.0.1:5500/index.html#co2" style="text-decoration: none;">Services</a></li>
+                    <li><a href="http://127.0.0.1:5500/index.html#co3" style="text-decoration: none;">Projects</a></li>
+                    <li><a href="http://127.0.0.1:5500/index.html#co4" style="text-decoration: none;">Contact Me</a></li>
+                    
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <main>
+    
+        <section class="firstsection" id="co0">
+            <div class="leftsection">
+            Hi Everyone! My name is <span class="purple">Sudip</span>
+            <div>and I am a passoniate</div>
+            <span id="element">Web </span><span class="typed-cursor" aria-hidden="true">|</span>
+            <script src="./Sudip Portfolio1_files/typed.umd.js.download"></script>
+            <script>
+            var typed = new Typed('#element', {
+            strings: ['Web Developer', 'Data Analyst','UI/UX Designer','Web Developer', 'Data Analyst','UI/UX Designer','Web Developer', 'Data Analyst','UI/UX Designer','Web Developer', 'Data Analyst','UI/UX Designer','Data Analyst', 'UI/UX Designer','Web Developer','Web Developer', 'Data Analyst','UI/UX Designer','Web Developer', 'Data Analyst','UI/UX Designer','Web Developer', 'Data Analyst','UI/UX Designer','Web Developer', 'Data Analyst','UI/UX Designer','Web Developer', 'Data Analyst','UI/UX Designer','Web Developer', 'Data Analyst','UI/UX Designer','Web Developer', 'Data Analyst','UI/UX Designer','Web Developer', 'Data Analyst','UI/UX Designer',],
+            typeSpeed: 50,});
+            </script>
+            <br><br>
+            <div class="btn">
+                <button><a href="https://www.linkedin.com/in/sudip-ghosh-746396256" style="text-decoration: none;color:red;">Visit LinkedIn</a></button>
+                <button>Visit GitHub</button>
+            </div>
+        
+            </div>
+            <div class="rightsection">
+            <img src="./Sudip Portfolio1_files/R.png" alt="R.png" width="400px">
+            </div>
+            </section>
+            <hr>
+
+            <section class="secondSection">
+                <br>
+                <br>
+                <span class="text-gray">My past Experience till now</span>
+                <h1>Work Experience</h1>
+                <div class="box">
+                    <div class="vertical">
+                        <img class="image-top" src="./Sudip Portfolio1_files/R.png" alt="abcd">
+                        <div class="vertical-title">
+                            <b>Web Developer Intern
+                               (Aug 2023-present)</b>
+                        </div>
+                        <br>
+                        <br>
+                        <br>
+                        <div class="Vertical-desc">
+                        <p>Currently working as a Intern at Bharat Intern</p>
+                        </div></div>
+                    
+
+
+
+                    
+
+                
+                        <div class="vertical">
+                            <img class="image-top" src="./Sudip Portfolio1_files/R.png" alt="abcd">
+                            <div class="vertical-title">
+                            <b> Full Stack Web Developer Intern(Sep 2023-)</b>
+                            </div>
+                            <div class="Vertical-desc">
+                                <br>
+                                <br>
+                                <br>
+
+                            <p>Going to work with CODSOFT as a Developer Intern</p>
+                            </div>
+                    </div>
+                    </div>
+                    
+                    
+                    
+            </section>
+            <br><br><br><br><br><br><br><br>
+            <h2 id="co1" style="text-align:center;">ABOUT ME</h2><br>
+            <p style="font-size:14px;margin-left:40px;margin-right:40px;">An accomplished web developer with a strong educational foundation, currently pursuing a Bachelor of Computer Applications (BCA) degree from Brainware University. Possesses a solid understanding of web development principles and techniques, complemented by hands-on experience through internships at CODSOFT and BHARAT INTERN. Demonstrated proficiency in HTML,CSS,JS. Committed to delivering high-quality, user-friendly websites that meet client objectives. Proven ability to make beautiful project with greatful mentors. Looking forward to leveraging my skills and knowledge to contribute effectively to future endeavors in the field of web development</p>
+            <br><br><br><br>
+
+
+            <section id="co2">
+            <h2 style="text-align:center;">SERVICES</h2><br>
+            <div style="font-size:14px;margin-left:60px;margin-right:60px;">
+                <h3 style="color: #1512e1;">We are Providing many Services Like-</h3>
+                <ul type="circle">
+                    
+                    <li><b>Website Development:</b>
+                        <ul type="square">
+                        <li>Custom website design and development tailored to meet specific client requirements.</li>
+                        <li>Responsive design to ensure optimal viewing and interaction across various devices (desktop, tablet, mobile).</li>
+                        <li>Front-end development using HTML5, CSS3, and JavaScript frameworks for interactive and user-friendly interfaces.</li>
+                        <br>
+
+                    <ul type="circle">
+                        <li><b>E-Commerce Solutions</b></li>
+                    <ul type="square">
+                        <li>Creation of secure and feature-rich e-commerce platforms using platforms like WooCommerce, Shopify, or custom solutions.</li></ul>
+                    <br>
+                        <ul type="circle"><li><b>Web Application Development:</b></li>
+                    <ul type="square">
+                        <li>Development of dynamic web applications using technologies such as React, Angular, or Vue.js for seamless user experiences.</li>
+                    </ul>
+                    <br>
+
+                    <ul type="circle"><li><b>Database Design and Integration:</b></li>
+                    <ul type="square">
+                        <li>Designing and implementing efficient database architectures (MySQL, Oracle , PostgreSQL, MongoDB) to handle large volumes of data.</li>
+                    </ul>
+                    <br>
+                    <ul type="circle"><li><b>Web Hosting and Deployment:</b></li>
+                    <ul type="square">
+                        <li>Assistance with selecting appropriate hosting solutions and deploying websites on servers, ensuring optimal performance and uptime.</li>
+                    </ul></ul></ul></ul></ul></ul></li></ul></div>
+                </section>
+
+                <br><br><br><br>
+
+                <section id="co3">
+                    <h2 style="text-align:center">PROJECTS</h2>
+                    <div style="font-size:14px;margin-left:40px;margin-right:40px;">Projects will be Uploaded Soon!!!</div>
+                </section>
+
+                <br><br><br><br>
+                
+                <section id="co4" style="text-align:center">
+                    <h2 style="text-align:center">CONTACT ME</h2>
+                    <label for="mail">For mail: </label>
+                    <a href="mailto:sudip10@gmail.com" id="mail">click on it!  </a>
+                    <br>
+                    <label for="call">For Call/Enquiry: </label>
+                    <a href="tel:8509999999" id="call">click on it!  </a>
+                    <br>
+                    <label for="LinkedIn">For Connecting with me in LinkedIn: </label>
+                    <a href="https://www.linkedin.com/in/sudip-ghosh-746396256" id="LinkedIn">click on it!  </a>
+                    <br>
+                </section>
+               
+            </main><style data-typed-js-cursor-css="true">
+        .typed-cursor{
+          opacity: 1;
+        }
+        .typed-cursor.typed-cursor--blink{
+          animation: typedjsBlink 0.7s infinite;
+          -webkit-animation: typedjsBlink 0.7s infinite;
+                  animation: typedjsBlink 0.7s infinite;
+        }
+        @keyframes typedjsBlink{
+          50% { opacity: 0.0; }
+        }
+        @-webkit-keyframes typedjsBlink{
+          0% { opacity: 1; }
+          50% { opacity: 0.0; }
+          100% { opacity: 1; }
+        }
+      </style>
+
+
+    <footer>
+        <div class="footer">
+            <div class="footer-first">
+                <h3>Portfolio of <br>
+                    @Coder Sudip</h3>
+                </div>
+            <div class="footer-second">
+                <ul>
+                    <li><a href="http://127.0.0.1:5500/index.html#co0" style="text-decoration: none;">Home</a></li>
+                    <li><a href="http://127.0.0.1:5500/index.html#co2" style="text-decoration: none;">Services</a></li>
+                    <li><a href="http://127.0.0.1:5500/index.html#co3" style="text-decoration: none;">Projects</a></li>
+                    <li><a href="http://127.0.0.1:5500/index.html#co4" style="text-decoration: none;">Contact Me</a></li>
+                    
+                </ul>
+                
+                </div>
+            <div class="footer-third">
+                <ul>
+                    <li><a href="http://127.0.0.1:5500/index.html#co0" style="text-decoration: none;">Home</a></li>
+                    <li><a href="http://127.0.0.1:5500/index.html#co2" style="text-decoration: none;">Services</a></li>
+                    <li><a href="http://127.0.0.1:5500/index.html#co3" style="text-decoration: none;">Projects</a></li>
+                    <li><a href="http://127.0.0.1:5500/index.html#co4" style="text-decoration: none;">Contact Me</a></li>
+                    
+                </ul>
+                </div>
+            <div class="footer-fourth">
+                <ul>
+                
+                <li><a href="http://127.0.0.1:5500/index.html#co0" style="text-decoration: none;">Home</a></li>
+                <li><a href="http://127.0.0.1:5500/index.html#co2" style="text-decoration: none;">Services</a></li>
+                <li><a href="http://127.0.0.1:5500/index.html#co3" style="text-decoration: none;">Projects</a></li>
+                <li><a href="http://127.0.0.1:5500/index.html#co4" style="text-decoration: none;">Contact Me</a></li>
+                </ul>
+                
+                </div>
+            </div>
+
+            <div class="footer-rights">
+                2023 Copyright © www.codersudip.com | All rights reserved. 
+            </div>
+    </footer>
+    
+    
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+
+</body></html>
